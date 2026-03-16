@@ -1,11 +1,11 @@
-# 🚀 Quick Commerce Delivery Analytics
+# Quick Commerce Delivery Analytics
 
 End-to-end analytics project covering SQL, Python EDA, Machine Learning,
 and a Streamlit dashboard — built on the **E-Commerce Shipping Dataset**.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 quick_commerce/
@@ -37,7 +37,7 @@ quick_commerce/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Install dependencies
 ```bash
@@ -57,7 +57,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## 🔢 Dataset Columns
+## Dataset Columns
 
 | Column | Description |
 |---|---|
@@ -76,7 +76,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## 🤖 ML Models Trained
+##  ML Models Trained
 
 | Model | Notes |
 |---|---|
@@ -87,7 +87,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## 📊 Dashboard Tabs
+##  Dashboard Tabs
 
 | Tab | Contents |
 |---|---|
@@ -99,7 +99,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## 🔑 Key Findings
+##  Key Findings
 
 - ~60% of orders in the dataset are **delayed**
 - Higher customer care calls → higher delay probability
